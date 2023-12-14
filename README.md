@@ -290,7 +290,7 @@ $$
   b_1\\
   b_2\\
   \vdots
-  \end{bmatrix}=
+  \end{bmatrix}
 \end{equation}
 $$
 
@@ -318,7 +318,7 @@ $$
   y_1\\
   y_2\\
   \vdots
-  \end{bmatrix}=
+  \end{bmatrix}
 \end{equation}
 $$
 
